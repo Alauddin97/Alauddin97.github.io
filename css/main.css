@@ -8,24 +8,19 @@
 }
 p
 {
- background:whitesmoke;
+ background:2px whitesmoke;
  color:red;
- top:40px;
- position:fixed;
-}
+
 
 .log
 {
     background: 5px grey;
     color:yellowgreen;
-    top:150px;
-    
-    position:fixed;
+   
 }
 
 [disabled]
 {
-    background:violet;
+    background:3px violet;
     color: brown;
-    bottom:20;
 }
