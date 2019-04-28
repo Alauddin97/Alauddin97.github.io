@@ -1,0 +1,31 @@
+#index
+{
+    background: 2px blueviolet;
+    right:20px;
+    top:10px;
+    position:fixed;
+
+}
+p
+{
+ background:whitesmoke;
+ color:red;
+ top:40px;
+ position:fixed;
+}
+
+.log
+{
+    background: 5px grey;
+    color:yellowgreen;
+    top:150px;
+    
+    position:fixed;
+}
+
+[disabled]
+{
+    background:violet;
+    color: brown;
+    bottom:20;
+}
