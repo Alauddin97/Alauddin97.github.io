@@ -6,7 +6,7 @@ body {
   font-family: "Cardo", serif;
   width: 100%;
   height: 100%;
-  background-image: url("image/universe.jpeg");
+  background-image: url("css_image/universe.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -72,6 +72,9 @@ p {
   font-size: 25px;
   align-items: center;
 }
+label{
+    color: aqua;
+}
 
 @media screen and (max-width: 600px) {
   .profile {
@@ -80,5 +83,9 @@ p {
   }
   .font {
     background-color: rgba(0, 0, 0, 0.3);
+  }
+  .ref {
+    margin-top: 0px;
+    
   }
 }
