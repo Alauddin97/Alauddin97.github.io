@@ -85,10 +85,11 @@ label{
     background-color: rgba(0, 0, 0, 0.3);
   }
   p{
-    padding: 0px;
+    padding: 0px 20px;
   }
   .ref {
     margin-top: 0px;
+    padding: 0px;
     
   }
 }
